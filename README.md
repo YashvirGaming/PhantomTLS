@@ -12,34 +12,44 @@
 </p>
 
 ---
+<div align="center">
 
 ## 🚀 Overview
 
 PHANTOMTLS is a production-grade CLI framework written in Go for:
 
-- 🔐 TLS fingerprint testing  
-- 🔁 Proxy rotation  
-- ⚡ Multithreaded traffic simulation  
-- 🌐 Local request forwarding  
-- 📊 Real-time colored logging  
+🔐 TLS fingerprint testing  
+🔁 Proxy rotation  
+⚡ Multithreaded traffic simulation  
+🌐 Local request forwarding  
+📊 Real-time colored logging  
 
 Designed for controlled testing of infrastructure you own or have permission to test.
 
----
+</div>
 
+---
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/afea7d01-686f-4fd3-945a-7668fd795234" width="700" />
+</p>
+
+---
+<p align="center">
 ## ✨ Features
 
-- ✅ Local Listener Mode (localhost:2024)
-- ✅ Colored status code logging
-- ✅ Multithread request engine
-- ✅ Proxy list rotation
-- ✅ TLS fingerprint rotation
-- ✅ Live metrics display
-- ✅ Interactive CLI interface
-- ✅ Single compiled binary (no runtime required)
+✅ Local Listener Mode (localhost:2024)
+✅ Colored status code logging
+✅ Multithread request engine
+✅ Proxy list rotation
+✅ TLS fingerprint rotation
+✅ Live metrics display
+✅ Interactive CLI interface
+✅ Single compiled binary (no runtime required)
+
+</p>
 
 ---
-
+<div align="center">
 # 📦 Installation
 
 ## 1️⃣ Install Go
